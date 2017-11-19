@@ -1,0 +1,35 @@
+0"what",
+1"who",
+2"how",
+3"many",
+4"where",
+5"no",
+6"number",
+7"of",
+8"staff",
+9"teaching",
+10"non",
+11"placed",
+12"placements",
+13"hod",
+14"principal"
+15 final
+16 fourth
+17 4th
+18 sections
+19 students
+20 strength
+21 boys
+22 girls
+23 cs2
+24 cs1
+25 2nd
+26 1st
+27 section
+28 total
+29 eligibility
+30 you
+31 hi
+32 hello
+33 list
+34 thank
